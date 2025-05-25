@@ -103,4 +103,5 @@ if __name__ == "__main__":
 ```
 
 ## Результат выполнения программы:
-![image](https://github.com/user-attachments/assets/0e00bbe0-6f9a-47d0-b9dc-bfb2c5f7a735)
+![image](https://github.com/user-attachments/assets/a2df0b97-2c72-461c-b21b-fe19cfeac93c)
+
